@@ -3,8 +3,6 @@
 
 ## r457FixZAxis - Fix for NPCs falling through the bunker floor
 
-[Imgur](https://imgur.com/WMtVfJd)
-
 You need this fix if you're stuck with your save because NPCs you were bringing to your base are placed underground so you can't interact with them.
 
 **It's a critical game-breaking progression-blocking bug that needs to be fixed ASAP! Because if you can't interact with your companions, you can't learn skills nor do quests!**
