@@ -12,7 +12,9 @@ You need this fix if you're stuck with your save because NPCs you were bringing 
 Download the mod's package from the releases tab and unzip its contents into the \[Path to Steam Library\]\\steamapps\\common\\Chernobylite 2\\Chernobylite2\\Binaries\\Win64\\ue4ss\\Mods folder.
 
 File structure should look like this:
+
 \[Path to Steam Library\]\\steamapps\\common\\Chernobylite 2\\Chernobylite2\\Binaries\\Win64\\ue4ss\\Mods\\r457FixZAxis\\Scripts\\main.lua
+
 \[Path to Steam Library\]\\steamapps\\common\\Chernobylite 2\\Chernobylite2\\Binaries\\Win64\\ue4ss\\Mods\\r457FixZAxis\\enabled.txt
 
 In game load your broken save, go to the bunker, stand close to the NPC you're trying to "rescue" and press F1. The NPC should "pop" to its proper place (see screenshots here: https://imgur.com/a/EpP2kA3). Repeat with all the bugged NPCs. Make a new save.
