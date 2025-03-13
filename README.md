@@ -7,7 +7,7 @@ You need this fix if you're stuck with your save because NPCs you were bringing 
 
 **It's a critical game-breaking progression-blocking bug that needs to be fixed ASAP! Because if you can't interact with your companions, you can't learn skills nor do quests!**
 
-[Download and install the latest UE4SS version](url=https://github.com/UE4SS-RE/RE-UE4SS/releases) (ue4ss folder and dwmapi.dll should go into the \[Path to Steam Library\]\\steamapps\\common\\Chernobylite 2\\Chernobylite2\\Binaries\\Win64 folder).
+[Download and install the latest UE4SS version](https://github.com/UE4SS-RE/RE-UE4SS/releases) (ue4ss folder and dwmapi.dll should go into the \[Path to Steam Library\]\\steamapps\\common\\Chernobylite 2\\Chernobylite2\\Binaries\\Win64 folder).
 
 Download the mod's package from the releases tab and unzip its contents into the \[Path to Steam Library\]\\steamapps\\common\\Chernobylite 2\\Chernobylite2\\Binaries\\Win64\\ue4ss\\Mods folder.
 
